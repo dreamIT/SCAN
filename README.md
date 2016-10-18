@@ -64,7 +64,7 @@ public final class Auditoria extends AbstractEntity {
 	}
 
 	public String getMensaje() {
-		return mensaje;
+		return masaje;
 	}
 
 	public void setMensaje(String mensaje) {
